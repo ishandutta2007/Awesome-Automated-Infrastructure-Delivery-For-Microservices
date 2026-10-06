@@ -64,7 +64,7 @@ The Internal Developer Platform market abstracts infrastructure complexity for m
 
 ## 🔓 Open-Source GitHub Projects 🌟 💻
 
-*Sorted by GitHub Stars Count (Descending)* 📊
+*Sorted by GitHub_Stars_Count (Descending)* 📊
 
 - **[Portainer](https://github.com/portainer/portainer)** [![Stars](https://img.shields.io/github/stars/portainer/portainer?style=social&color=white)](https://github.com/portainer/portainer/stargazers) 🖥️  
   **Container management for Kubernetes and Docker**, zlib licensed. ~30k+ stars. Web-based UI for managing containerized environments. Provides self-service deployment capabilities for development teams.  
